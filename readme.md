@@ -12,15 +12,15 @@ Turns everything into a QR Code. <br/> </p>
 
 
 <p align="center">
-  <img alt="finished project" src="./src/assets/readme1.png" width="100%">
+  <img alt="Finished Project" src="./src/assets/readme1.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="The choosen website" src="./src/assets/readme2.png" width="100%">
+  <img alt="The choosen website..." src="./src/assets/readme2.png" width="100%">
 </p>
 
 <p align="center">
-  <img alt="The loading" src="./src/assets/readme3.png" width="100%">
+  <img alt="The loading..." src="./src/assets/readme3.png" width="100%">
 </p>
 
 
